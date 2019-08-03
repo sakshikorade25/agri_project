@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "424534510367",
+    "firebase_url": "https://farmitra-5b017.firebaseio.com",
+    "project_id": "farmitra-5b017",
+    "storage_bucket": "farmitra-5b017.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424534510367:android:e119b68ae40ceac8",
+        "android_client_info": {
+          "package_name": "com.sakshikorade25.agri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424534510367-ecko55tso4qq21tj46cmlu66ntafh3vv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sakshikorade25.agri",
+            "certificate_hash": "1b4ce27455b7169bf514abd7412a985f3105c1bb"
+          }
+        },
+        {
+          "client_id": "424534510367-3ee6624rv7fugj4ivrq2dihm0r1usmtc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF2-ypqFOOK-KyjU8xETW5Cpoys3eiKJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424534510367-3ee6624rv7fugj4ivrq2dihm0r1usmtc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
